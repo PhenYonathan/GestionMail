@@ -1,0 +1,12 @@
+*{
+    font-family: "Roboto", "Lucida Grande", "DejaVu Sans", "Bitstream Vera Sans", Verdana, Arial, sans-serif;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+/*Navbar*/
+.img-nav{
+    width: 5%;
+}
